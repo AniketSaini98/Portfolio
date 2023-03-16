@@ -2,13 +2,12 @@
 
 Welcome to my portfolio project! This portfolio showcases some of my best work as a designer and developer, and provides an overview of my skills and experience.
 
-Table of Contents :
-  1. Installation
-  2. Usage
-  3. Features
-  4. Technologies
-  5. Contributing
-  6. License
+Table of Contents : 1. Installation
+                    2. Usage
+                    3. Features
+                    4. Technologies
+                    5. Contributing
+                    6. License
 
 1. Installation : There is no installation required to view my portfolio project. Simply visit my website to view the project.
 
